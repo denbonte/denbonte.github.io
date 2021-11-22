@@ -1,5 +1,5 @@
 # denbonte.github.io
 
-Personal GitHub page.
+Repository for my personal GitHub page.
 
-The stunning Jekyll template was [developed by Brittany Chiang](https://github.com/bchiang7/bchiang7.github.io).
+The [stunning Jekyll template](https://github.com/bchiang7/bchiang7.github.io) was developed by [@bchiang7](https://github.com/bchiang7).
