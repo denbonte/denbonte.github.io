@@ -1,0 +1,21 @@
+cores:
+  - item: Deep Learning
+  - item: Medical Image Analysis
+  - item: DICOM handling and processing
+  - item: Computer Vision
+  - item: Data Science
+  - item: Statistical Analysis
+
+languages:
+  - item: Python
+  - item: R
+  - item: Bash
+  - item: MATLAB
+  - item: C/C++
+
+tools:
+  - item: PyTorch / TensorFlow
+  - item: UNIX / Linux
+  - item: Docker
+  - item: Google Cloud Healthcare
+  - item: Git, Github, & Gitkraken

@@ -1,0 +1,43 @@
+# Site settings
+name: Dennis Bontempi
+title: Dennis Bontempi's Website
+description: I am a passionate coder and Linux enthusiast trying to build software to accelerate AI solutions into clinic practice.
+url: https://denbonte.github.io/
+baseurl: ''
+email: dennis_bontempi@dfci.harvard.edu
+cover: https://denbonte.github.io/img/og.png
+logo: https://denbonte.github.io/img/emojis/technologist.png
+resume: https://denbonte.github.io/resume.pdf
+social:
+  - title: email
+    url: mailto:dennis_bontempi@dfci.harvard.edu
+  - title: twitter
+    url: https://twitter.com/denbonte
+  - title: instagram
+    url: https://instagram.com/denbonte
+  - title: github
+    url: https://github.com/denbonte
+  - title: linkedin
+    url: https://www.linkedin.com/in/denbonte
+    
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap
