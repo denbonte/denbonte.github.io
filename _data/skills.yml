@@ -3,8 +3,8 @@ cores:
   - item: Medical Image Analysis
   - item: DICOM handling and processing
   - item: Computer Vision
-  - item: Data Science
-  - item: Statistical Analysis
+  - item: Computational Biology
+  
 
 languages:
   - item: Python
