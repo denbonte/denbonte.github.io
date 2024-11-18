@@ -4,13 +4,13 @@ title: Hello There! I'm Dennis.
 description: I am a passionate coder and Linux enthusiast trying to build software to accelerate AI solutions into clinic practice.
 url: https://denbonte.github.io/
 baseurl: ''
-email: dbontempi@bwh.harvard.edu
+email: hello@denbonte.me
 cover: https://denbonte.github.io/img/og.png
 logo: https://denbonte.github.io/img/emojis/technologist.png
 resume: https://denbonte.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:dbontempi@bwh.harvard.edu
+    url: mailto:hello@denbonte.me
   - title: twitter
     url: https://twitter.com/denbonte
   - title: instagram
